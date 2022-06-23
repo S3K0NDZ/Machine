@@ -1,2 +1,2 @@
 # machine
-Script para agilizar fase de reconocimiento de una máquina vulnerable
+Script para agilizar la fase de reconocimiento de una máquina vulnerable
